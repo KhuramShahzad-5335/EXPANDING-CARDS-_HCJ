@@ -12,7 +12,7 @@ This project showcases a simple and stylish HTML, CSS, and JavaScript implementa
 
 ## Demo
 
-A live demo of the project can be found [here](link-to-demo).
+A live demo of the project can be found [here]([link-to-demo](https://khuramshahzad-5335.github.io/EXPANDING-CARDS-_HCJ/)).
 
 ![Expanding Cards Demo](link-to-demo-gif-or-screenshot)
 
