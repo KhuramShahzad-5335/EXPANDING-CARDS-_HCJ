@@ -9,7 +9,6 @@ This project showcases a simple and stylish HTML, CSS, and JavaScript implementa
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -36,3 +35,39 @@ The project is built using the following technologies:
 1. Clone the repository:
 
             git clone https://github.com/your-username/expanding-cards.git
+
+2. Navigate to the project directory:
+
+            cd expanding-cards
+
+
+3. Open the `index.html` file in your preferred web browser.
+
+4. Click on each card to see it expand and reveal the content.
+
+## Contributing
+
+Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to create a pull request.
+
+1. Fork the repository.
+
+2. Create your feature branch:
+
+            git checkout -b feature/new-feature
+
+3. Commit your changes:
+
+            git commit -m 'Add some new feature'
+
+
+4. Push to the branch:
+            
+            git push origin feature/new-feature
+
+
+5. Open a pull request.
+
+
+
+
+
