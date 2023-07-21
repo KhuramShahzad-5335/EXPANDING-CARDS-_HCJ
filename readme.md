@@ -35,3 +35,4 @@ The project is built using the following technologies:
 
 1. Clone the repository:
 
+###             git clone https://github.com/your-username/expanding-cards.git
